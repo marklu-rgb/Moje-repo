@@ -5,3 +5,4 @@ Dwa
 trzyma 
 bk
 xrp
+vet 
