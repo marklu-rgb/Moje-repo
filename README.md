@@ -7,3 +7,4 @@ bk
 xrp
 vet 
 aerodrome 
+algorand 
