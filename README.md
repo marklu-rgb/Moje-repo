@@ -8,3 +8,4 @@ xrp
 vet 
 aerodrome 
 algorand 
+vethor
